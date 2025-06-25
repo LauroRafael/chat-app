@@ -77,8 +77,4 @@ Visualizar logs:
 docker-compose logs -f
 ```
 
----
 
-## 📄 Licença
-
-Este projeto é licenciado sob a [MIT License](LICENSE).
