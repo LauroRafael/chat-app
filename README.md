@@ -60,8 +60,8 @@ Isso irá:
 
 ## 🌐 Acessos
 
-- Frontend: http://localhost:3000
-- Backend API: http://localhost:3001/api
+- Frontend: http://localhost:8080
+- Backend API: http://localhost:3000
 - Banco de Dados (MySQL): porta 3306
 - Redis: porta 6379
 
